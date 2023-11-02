@@ -46,9 +46,7 @@ header {
   padding: 50px 10px;
   margin-bottom: 20px;
 }
-.content {
-  display: flex;
-}
+
 .section2 .left {
   text-align: center;
   width: 50%;
